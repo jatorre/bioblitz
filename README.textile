@@ -1,0 +1,14 @@
+h1. Bioblitz
+
+This is a set of different components for running a Bioblitz. It is composed of:
+
+* Website: This is a simple website for the TDWG Bioblitz event and a set of visualizations
+* Taxxonomizer: A tool to help on the process of identifying species from images from the Bioblitz
+* Imagetagger: TODO
+
+
+
+Copyright (c) 2010 Vizzuality. See LICENSE for details.
+
+
+
